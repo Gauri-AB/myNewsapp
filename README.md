@@ -1,5 +1,4 @@
 
-https://github.com/Gauri-AB/myNewsapp/blob/master/src/Screenshot%20(1).png
 ![Alt text](https://github.com/Gauri-AB/myNewsapp/blob/master/src/Screenshot%20(1).png)
 
 # Getting Started with Create React App
